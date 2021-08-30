@@ -310,6 +310,11 @@ ___
 Server-side rendering  - простыми словами, он генерирует HTML из компонент React на сервере и возвращает этот HTML пользователю.
 
 Если мы не используем рендеринг на стороне сервера (известный как SSR), то наш сайт будет пустым при первом запуске.
+
+<p align="center">
+  <img src="https://github.com/IFabrichnov/React-18/blob/main/README-IMG/1.jpg" />
+  <p align="center">Google карты с реализацией debouncing</p>
+</p>
  
 ![1](https://github.com/IFabrichnov/React-18/blob/main/README-IMG/1.jpg)
 
