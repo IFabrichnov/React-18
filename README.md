@@ -273,7 +273,7 @@ const handleChangeInput = () => {
 Начиная с React 18 появился хук useTransition(), который помогает нам отмечать обновления пользовательского интерфейса как низкоприоритетные, что особенно полезно для тяжелых несрочных обновлений.
 ___
 
-##useDeferredValue
+## useDeferredValue
 
 ```javascript
 const deferredValue = useDeferredValue(value, { timeoutMs: 2000 });
